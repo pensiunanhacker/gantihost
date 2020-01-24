@@ -2,6 +2,6 @@
 #
 #
 mount -o rw,remount /system
-cp -R /gantihost/hosts /etc
+cp -R /hosts /etc
 mount -o ro,remount /system
 #
